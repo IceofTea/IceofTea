@@ -4,6 +4,12 @@
 
 来自青岛大学计算机科学技术学院软件工程（创新班），前青岛大学贴吧吧主，正在把校园里每一份踩坑的经验，泡成后来者的指路牌。
 
+## 📊 GitHub Stats
+
+![followers](https://img.shields.io/github/followers/IceofTea?style=for-the-badge&label=Followers&logo=github&logoColor=white&color=00d4ff&labelColor=0a1a2f)
+![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIceofTea&query=public_repos&label=Repos&style=for-the-badge&logo=github&logoColor=white&color=64ffda&labelColor=0a1a2f)
+![stars](https://img.shields.io/github/stars/IceofTea/QDU-Wiki?style=for-the-badge&label=Stars&logo=github&logoColor=white&color=64ffda&labelColor=0a1a2f) *QDU-Wiki*
+
 ## 💻 Tech Stack
 
 **🧊 Languages**
