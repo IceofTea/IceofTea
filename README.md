@@ -1,16 +1,125 @@
-## Hi there 👋
+<p align="center"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27300%27%20viewBox%3D%270%200%20800%20300%27%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%27bg%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%23040c18%27%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%230c2a44%27%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%27tt%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%270%27%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%2364ffda%27%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%2750%25%27%20stop-color%3D%27%2300d4ff%27%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%23ffd9a0%27%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%3CradialGradient%20id%3D%27glow%27%20cx%3D%2750%25%27%20cy%3D%2750%25%27%20r%3D%2750%25%27%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%2300d4ff%27%20stop-opacity%3D%270.35%27%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%2300d4ff%27%20stop-opacity%3D%270%27%2F%3E%0A%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%27800%27%20height%3D%27300%27%20fill%3D%27url%28%23bg%29%27%2F%3E%0A%20%20%3Ccircle%20cx%3D%27120%27%20cy%3D%2750%27%20r%3D%2760%27%20fill%3D%27url%28%23glow%29%27%2F%3E%0A%20%20%3Ccircle%20cx%3D%27680%27%20cy%3D%27235%27%20r%3D%2790%27%20fill%3D%27url%28%23glow%29%27%2F%3E%0A%20%20%3Cg%20fill%3D%27%23cfeaff%27%20opacity%3D%270.8%27%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2760%27%20cy%3D%2730%27%20r%3D%271.5%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27200%27%20cy%3D%2770%27%20r%3D%271.2%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27330%27%20cy%3D%2724%27%20r%3D%271.8%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27460%27%20cy%3D%2782%27%20r%3D%271.2%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27580%27%20cy%3D%2728%27%20r%3D%271.6%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27720%27%20cy%3D%2764%27%20r%3D%271.3%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27760%27%20cy%3D%27180%27%20r%3D%271.4%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%2740%27%20cy%3D%27170%27%20r%3D%271.4%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27300%27%20cy%3D%27110%27%20r%3D%271.1%27%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27520%27%20cy%3D%2746%27%20r%3D%271.5%27%2F%3E%0A%20%20%3C%2Fg%3E%0A%20%20%3Ctext%20x%3D%27400%27%20y%3D%27128%27%20text-anchor%3D%27middle%27%20font-family%3D%27monospace%2CConsolas%2CMenlo%27%20font-size%3D%2754%27%20font-weight%3D%27bold%27%20fill%3D%27url%28%23tt%29%27%20letter-spacing%3D%274%27%3EICE%20OF%20TEA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%27400%27%20y%3D%27168%27%20text-anchor%3D%27middle%27%20font-family%3D%27monospace%2CConsolas%2CMenlo%27%20font-size%3D%2719%27%20fill%3D%27%239fc6ea%27%20letter-spacing%3D%276%27%3EQDU%20BLEND%20%C2%B7%20%E6%A0%A1%E5%9B%AD%E5%86%B0%E8%8C%B6%3C%2Ftext%3E%0A%20%20%3Cpath%20d%3D%27M0%20235%20Q62.5%20215%20125%20235%20T250%20235%20T375%20235%20T500%20235%20T625%20235%20T750%20235%27%20fill%3D%27none%27%20stroke%3D%27%2300d4ff%27%20stroke-width%3D%273.5%27%20opacity%3D%270.85%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%20258%20Q62.5%20238%20125%20258%20T250%20258%20T375%20258%20T500%20258%20T625%20258%20T750%20258%27%20fill%3D%27none%27%20stroke%3D%27%2364ffda%27%20stroke-width%3D%272.5%27%20opacity%3D%270.55%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%20280%20Q62.5%20260%20125%20280%20T250%20280%20T375%20280%20T500%20280%20T625%20280%20T750%20280%27%20fill%3D%27none%27%20stroke%3D%27%23ffd9a0%27%20stroke-width%3D%272%27%20opacity%3D%270.35%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt="ICE OF TEA banner"/></p>
 
-<!--
-**IceofTea/IceofTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>「 一瓶冰茶，一座校园，一整个知识库 」</b><br>
+  永远的学生。
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2770%27%20viewBox%3D%270%200%201000%2070%27%3E%0A%20%20%3Cpath%20d%3D%27M0%2035%20Q62.5%2015%20125%2035%20T250%2035%20T375%2035%20T500%2035%20T625%2035%20T750%2035%20T875%2035%20T1000%2035%27%20fill%3D%27none%27%20stroke%3D%27%2300d4ff%27%20stroke-width%3D%273.5%27%20opacity%3D%270.9%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%2052%20Q62.5%2032%20125%2052%20T250%2052%20T375%2052%20T500%2052%20T625%2052%20T750%2052%20T875%2052%20T1000%2052%27%20fill%3D%27none%27%20stroke%3D%27%231e3a5f%27%20stroke-width%3D%272.5%27%20opacity%3D%270.45%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt=""/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍵 身份卡 · ID Card
+
+<details open>
+<summary><b>一盏茶的时间，认识我</b></summary>
+
+<br>
+
+| 栏目 | 内容 |
+|:--:|:--|
+| 🎓 **出身** | 青岛大学 · 计算机科学技术学院 · 软件工程（2021 级创新班） |
+| 🍵 **副业** | 前青岛大学贴吧吧主（2023–2024）· 校园社区运营 |
+| 🔭 **雷达** | 全栈 Web · RAG 检索增强生成 · 机器学习 |
+| ⚙️ **手感** | C/C++ · Java · Python · Vue3 · Spring Boot |
+| 📊 **实践** | Opencode · Claude code · Hermes · Codex |
+
+</details>
+
+<p align="center"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2770%27%20viewBox%3D%270%200%201000%2070%27%3E%0A%20%20%3Cpath%20d%3D%27M0%2035%20Q62.5%2015%20125%2035%20T250%2035%20T375%2035%20T500%2035%20T625%2035%20T750%2035%20T875%2035%20T1000%2035%27%20fill%3D%27none%27%20stroke%3D%27%2364ffda%27%20stroke-width%3D%273.5%27%20opacity%3D%270.9%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%2052%20Q62.5%2032%20125%2052%20T250%2052%20T375%2052%20T500%2052%20T625%2052%20T750%2052%20T875%2052%20T1000%2052%27%20fill%3D%27none%27%20stroke%3D%27%231e3a5f%27%20stroke-width%3D%272.5%27%20opacity%3D%270.45%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt=""/></p>
+
+## 🏆 代表作 · QDU-Wiki（2026.07）
+
+牵头把贴吧沉淀下来的校园经验，搭成一座**活着的 Wiki**：
+新生手册、生活指南、学习学业、校园服务、学院详情……由 MkDocs 构建，托管在 GitHub Pages，向每一位 QDUer 开放 PR。
+
+<p align="center">
+  <a href="https://github.com/IceofTea/QDU-Wiki"><img src="https://img.shields.io/badge/repo-QDU--Wiki-64ffda?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a2f" alt="QDU-Wiki repo"/></a>
+  <a href="https://iceoftea.github.io/QDU-Wiki/"><img src="https://img.shields.io/badge/site-QDU--Wiki%20Pages-00d4ff?style=for-the-badge&logo=pagespeedinsights&logoColor=white&labelColor=0a1a2f" alt="QDU-Wiki site"/></a>
+</p>
+
+- 🧊 **社区驱动**：从贴吧走出来的内容，再喂回给 Wiki，形成正循环。
+- 🤖 **Agent 协作**：设计了「提示词工程」维护流程，让 AI 也能帮忙改词条。
+
+<p align="center"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2770%27%20viewBox%3D%270%200%201000%2070%27%3E%0A%20%20%3Cpath%20d%3D%27M0%2035%20Q62.5%2015%20125%2035%20T250%2035%20T375%2035%20T500%2035%20T625%2035%20T750%2035%20T875%2035%20T1000%2035%27%20fill%3D%27none%27%20stroke%3D%27%23ffd9a0%27%20stroke-width%3D%273.5%27%20opacity%3D%270.9%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%2052%20Q62.5%2032%20125%2052%20T250%2052%20T375%2052%20T500%2052%20T625%2052%20T750%2052%20T875%2052%20T1000%2052%27%20fill%3D%27none%27%20stroke%3D%27%231e3a5f%27%20stroke-width%3D%272.5%27%20opacity%3D%270.45%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt=""/></p>
+
+## 🎓 隐藏仓库 · 校园论坛 + RAG 问答机器人
+
+独立从底层搭建的校园论坛网站（Spring Boot + Vue3），核心亮点是自研的 **RAG 智能问答机器人**：
+
+<pre>
+      ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
+      │   Vue 3      │ ───► │ Spring Boot  │ ───► │    RAG bot   │
+      │  frontend    │      │   backend    │      │   QA robot   │
+      │  forum UI    │      │   REST API   │      │  vector match │
+      └──────────────┘      └──────────────┘      └──────────────┘
+
+        [ split ] ─► [ embed ] ─► [ retrieve ] ─► [ rerank ] ─► [ generate ]
+         分块         向量化          检索            优化          生成
+</pre>
+
+- 🧩 **模块化设计**：业务逻辑清晰分层，独立可扩展。
+- 🔍 **语义匹配**：基于 Sentence-Transformers，识别相似帖子的语义而非关键词。
+- 💬 **智能回复**：发布提问后，AI 依据优化后的上下文自动生成回答。
+
+<p align="center"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2770%27%20viewBox%3D%270%200%201000%2070%27%3E%0A%20%20%3Cpath%20d%3D%27M0%2035%20Q62.5%2015%20125%2035%20T250%2035%20T375%2035%20T500%2035%20T625%2035%20T750%2035%20T875%2035%20T1000%2035%27%20fill%3D%27none%27%20stroke%3D%27%23e8a44a%27%20stroke-width%3D%273.5%27%20opacity%3D%270.9%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%2052%20Q62.5%2032%20125%2052%20T250%2052%20T375%2052%20T500%2052%20T625%2052%20T750%2052%20T875%2052%20T1000%2052%27%20fill%3D%27none%27%20stroke%3D%27%231e3a5f%27%20stroke-width%3D%272.5%27%20opacity%3D%270.45%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt=""/></p>
+
+## 🧪 我的配方表
+
+| 分类 | 配料 | 用途 |
+|:--:|:--|:--|
+| 🔩 **引擎** | C · C++ · Java · Python | 拧紧每一处算法细节 |
+| 🍵 **后端** | Spring Boot · MySQL · REST API | 让每个接口都稳稳上桌 |
+| 🕸 **前端** | Vue3 · HTML · JS · WXML · WXSS · PHP | 界面与交互，一杯见底 |
+| 🧠 **AI** | RAG · Sentence-Transformers · PyTorch | 让知识会自己说话 |
+| 🧰 **工具** | Git · Linux · MkDocs · Office | 后勤补给线 |
+
+<p align="center"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2770%27%20viewBox%3D%270%200%201000%2070%27%3E%0A%20%20%3Cpath%20d%3D%27M0%2035%20Q62.5%2015%20125%2035%20T250%2035%20T375%2035%20T500%2035%20T625%2035%20T750%2035%20T875%2035%20T1000%2035%27%20fill%3D%27none%27%20stroke%3D%27%2300d4ff%27%20stroke-width%3D%273.5%27%20opacity%3D%270.9%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%2052%20Q62.5%2032%20125%2052%20T250%2052%20T375%2052%20T500%2052%20T625%2052%20T750%2052%20T875%2052%20T1000%2052%27%20fill%3D%27none%27%20stroke%3D%27%2364ffda%27%20stroke-width%3D%272.5%27%20opacity%3D%270.45%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt=""/></p>
+
+## 🏆 淬炼记录
+
+- 🥇 **蓝桥杯** · 第十三届 山东赛区 C/C++ 程序设计大学 B 组（三等奖） 鉴定为烂
+- 🤖 **RAICOM** · 2023 睿抗机器人开发者大赛 山东赛区（三等奖） 鉴定为烂
+- 🎓 **奖学金 ×6**：校一等 ×2 · 二等 ×2 · 三等 ×1 · 洲固校友企业奖学金 ×1
+- 🌟 **荣誉称号**：优秀毕业生 · 优秀学生干部 · 优秀团干部 · 优秀团员 · 先进团支部
+
+<p align="center"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2770%27%20viewBox%3D%270%200%201000%2070%27%3E%0A%20%20%3Cpath%20d%3D%27M0%2035%20Q62.5%2015%20125%2035%20T250%2035%20T375%2035%20T500%2035%20T625%2035%20T750%2035%20T875%2035%20T1000%2035%27%20fill%3D%27none%27%20stroke%3D%27%2364ffda%27%20stroke-width%3D%273.5%27%20opacity%3D%270.9%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%2052%20Q62.5%2032%20125%2052%20T250%2052%20T375%2052%20T500%2052%20T625%2052%20T750%2052%20T875%2052%20T1000%2052%27%20fill%3D%27none%27%20stroke%3D%27%2300d4ff%27%20stroke-width%3D%272.5%27%20opacity%3D%270.45%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt=""/></p>
+
+## 🍵 社区足迹
+
+- 🏛 **2023–2024 青岛大学贴吧吧主**：管过流量，也管过节奏，最后把经验写成 Wiki。
+- 👥 **团支书**：带领支部获评「先进团支部」（其实是领着一班兄弟玩了四年）。
+- 🧭 **辅导员助理 / 带班**：两届新生，从报到到融入。
+
+<p align="center"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271000%27%20height%3D%2770%27%20viewBox%3D%270%200%201000%2070%27%3E%0A%20%20%3Cpath%20d%3D%27M0%2035%20Q62.5%2015%20125%2035%20T250%2035%20T375%2035%20T500%2035%20T625%2035%20T750%2035%20T875%2035%20T1000%2035%27%20fill%3D%27none%27%20stroke%3D%27%23ffd9a0%27%20stroke-width%3D%273.5%27%20opacity%3D%270.9%27%2F%3E%0A%20%20%3Cpath%20d%3D%27M0%2052%20Q62.5%2032%20125%2052%20T250%2052%20T375%2052%20T500%2052%20T625%2052%20T750%2052%20T875%2052%20T1000%2052%27%20fill%3D%27none%27%20stroke%3D%27%2300d4ff%27%20stroke-width%3D%272.5%27%20opacity%3D%270.45%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt=""/></p>
+
+## 🧭 航线图 · 正在学
+
+<p>
+  <kbd>RAG / Agent</kbd>
+  <kbd>Machine Vision</kbd>
+  <kbd>Remote Sensing</kbd>
+  <kbd>ROS 2</kbd>
+</p>
+
+## 📮 灯塔 · 找到我
+
+<p align="center">
+  <a href="mailto:icyteacn@gmail.com"><img src="https://img.shields.io/badge/mail-icyteacn%40gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0a1a2f" alt="mail"/></a>
+  <a href="https://github.com/IceofTea"><img src="https://img.shields.io/badge/github-IceofTea-64ffda?style=flat-square&logo=github&logoColor=white&labelColor=0a1a2f" alt="github"/></a>
+</p>
+
+## 📊 仪表盘
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IceofTea&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00d4ff&text_color=a9c7e8&icon_color=64ffda&border_color=1e3a5f" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceofTea&layout=donut-vertical&theme=transparent&title_color=00d4ff&text_color=a9c7e8&border_color=1e3a5f" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IceofTea&theme=dark&hide_border=true" height="170" />
+</p>
+
+---
+
+<p align="center">
+  <samp><small><i>* 把踩过的坑都泡开，后来的人就不再迷路。 *</i></small></samp>
+</p>
