@@ -1,74 +1,65 @@
-<p align="center"><img src="assets/banner.svg" width="100%" alt="ICE OF TEA banner"/></p>
+# 🧊 永远的学生
 
-<p align="center">
-  <b>「 一瓶冰茶，一座校园，一整个知识库 」</b><br>
-  永远的学生。
-</p>
+**「 一瓶冰茶，一座校园，一整个知识库 」**
 
-<p align="center"><img src="assets/div1.svg" width="100%" alt=""/></p>
-
-## 🍵 身份卡 · ID Card
-
-<details open>
-<summary><b>一盏茶的时间，认识我</b></summary>
-
-<br>
-
-| 栏目 | 内容 |
-|:--:|:--|
-| 🎓 **出身** | 青岛大学 · 计算机科学技术学院 · 软件工程（创新班） |
-| 🍵 **副业** | 前青岛大学贴吧吧主· 校园社区运营 |
-| 🔭 **雷达** | 全栈 Web · Agent 开发 · 机器学习 |
-| ⚙️ **手感** | C/C++ · Java · Python · Vue3 · Spring Boot |
-| 📊 **实践** | OpenCode · Claude Code · Hermes · Codex |
-
-</details>
-
-<p align="center"><img src="assets/div2.svg" width="100%" alt=""/></p>
+来自青岛大学计算机科学技术学院软件工程（创新班），前青岛大学贴吧吧主，正在把校园里每一份踩坑的经验，泡成后来者的指路牌。
 
 ## 💻 Tech Stack
 
 **🧊 Languages**
 
-<p align="center"><img src="assets/badge-C.svg" alt="C"/> <img src="assets/badge-Cpp.svg" alt="C++"/> <img src="assets/badge-Java.svg" alt="Java"/> <img src="assets/badge-Python.svg" alt="Python"/> <img src="assets/badge-JavaScript.svg" alt="JavaScript"/> <img src="assets/badge-HTML.svg" alt="HTML"/> <img src="assets/badge-PHP.svg" alt="PHP"/></p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **🍵 Backend / Database**
 
-<p align="center"><img src="assets/badge-Vue3.svg" alt="Vue3"/> <img src="assets/badge-SpringBoot.svg" alt="Spring Boot"/> <img src="assets/badge-MySQL.svg" alt="MySQL"/> <img src="assets/badge-REST-API.svg" alt="REST API"/></p>
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-2C7DBD?style=for-the-badge)
 
 **🧠 AI / ML**
 
-<p align="center"><img src="assets/badge-RAG.svg" alt="RAG"/> <img src="assets/badge-ST.svg" alt="Sentence-Transformers"/> <img src="assets/badge-PyTorch.svg" alt="PyTorch"/> <img src="assets/badge-OpenCV.svg" alt="OpenCV"/></p>
+![RAG](https://img.shields.io/badge/RAG-00d4ff?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Sentence-Transformers](https://img.shields.io/badge/sentence--transformers-0B7A75?style=for-the-badge)
 
 **🧰 Tools / OS**
 
-<p align="center"><img src="assets/badge-Git.svg" alt="Git"/> <img src="assets/badge-Linux.svg" alt="Linux"/> <img src="assets/badge-MkDocs.svg" alt="MkDocs"/> <img src="assets/badge-ROS2.svg" alt="ROS 2"/></p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 **🤖 Agent 工具链**
 
-<p align="center"><img src="assets/badge-OpenCode.svg" alt="OpenCode"/> <img src="assets/badge-ClaudeCode.svg" alt="Claude Code"/> <img src="assets/badge-Hermes.svg" alt="Hermes"/> <img src="assets/badge-Codex.svg" alt="Codex"/></p>
-
+![OpenCode](https://img.shields.io/badge/OpenCode-00d4ff?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)
+![Hermes](https://img.shields.io/badge/Hermes-8B5CF6?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge)
 
 ## 🏆 代表作 · QDU-Wiki（2026.07）
 
 牵头把贴吧沉淀下来的校园经验，搭成一座**活着的 Wiki**：
 新生手册、生活指南、学习学业、校园服务、学院详情……由 MkDocs 构建，托管在 GitHub Pages，向每一位 QDUer 开放 PR。
 
-<p align="center">
-  <a href="https://github.com/IceofTea/QDU-Wiki"><img src="assets/badge-repo.svg" alt="QDU-Wiki repo"/></a>
-  <a href="https://iceoftea.github.io/QDU-Wiki/"><img src="assets/badge-site.svg" alt="QDU-Wiki site"/></a>
-</p>
+[![repo](https://img.shields.io/badge/repo-QDU--Wiki-64ffda?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a2f)](https://github.com/IceofTea/QDU-Wiki)
+[![site](https://img.shields.io/badge/site-QDU--Wiki%20Pages-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a2f)](https://iceoftea.github.io/QDU-Wiki/)
 
 - 🧊 **社区驱动**：从贴吧走出来的内容，再喂回给 Wiki，形成正循环。
 - 🤖 **Agent 协作**：设计了「提示词工程」维护流程，让 AI 也能帮忙改词条。
-
-<p align="center"><img src="assets/div3.svg" width="100%" alt=""/></p>
 
 ## 🎓 隐藏仓库 · 校园论坛 + RAG 问答机器人
 
 独立从底层搭建的校园论坛网站（Spring Boot + Vue3），核心亮点是自研的 **RAG 智能问答机器人**：
 
-<pre>
+```
       ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
       │   Vue 3      │ ───► │ Spring Boot  │ ───► │    RAG bot   │
       │  frontend    │      │   backend    │      │   QA robot   │
@@ -77,25 +68,11 @@
 
         [ split ] ─► [ embed ] ─► [ retrieve ] ─► [ rerank ] ─► [ generate ]
          分块         向量化          检索            优化          生成
-</pre>
+```
 
 - 🧩 **模块化设计**：业务逻辑清晰分层，独立可扩展。
 - 🔍 **语义匹配**：基于 Sentence-Transformers，识别相似帖子的语义而非关键词。
 - 💬 **智能回复**：发布提问后，AI 依据优化后的上下文自动生成回答。
-
-<p align="center"><img src="assets/div4.svg" width="100%" alt=""/></p>
-
-## 🧪 我的配方表
-
-| 分类 | 配料 | 用途 |
-|:--:|:--|:--|
-| 🔩 **引擎** | C · C++ · Java · Python | 拧紧每一处算法细节 |
-| 🍵 **后端** | Spring Boot · MySQL · REST API | 让每个接口都稳稳上桌 |
-| 🕸 **前端** | Vue3 · HTML · JS · WXML · WXSS · PHP | 界面与交互，一杯见底 |
-| 🧠 **AI** | RAG · Sentence-Transformers · PyTorch | 让知识会自己说话 |
-| 🧰 **工具** | Git · Linux · MkDocs · Office | 后勤补给线 |
-
-<p align="center"><img src="assets/div5.svg" width="100%" alt=""/></p>
 
 ## 🏆 淬炼记录
 
@@ -104,15 +81,11 @@
 - 🎓 **奖学金 ×6**：校一等 ×2 · 二等 ×2 · 三等 ×1 · 洲固校友企业奖学金 ×1
 - 🌟 **荣誉称号**：优秀毕业生 · 优秀学生干部 · 优秀团干部 · 优秀团员 · 先进团支部
 
-<p align="center"><img src="assets/div6.svg" width="100%" alt=""/></p>
-
 ## 🍵 社区足迹
 
 - 🏛 **青岛大学贴吧吧主**：管过流量，也管过节奏，最后把经验写成 Wiki。
 - 👥 **团支书**：带领支部获评「先进团支部」（其实是领着一班兄弟玩了四年）。
 - 🧭 **辅导员助理 / 带班**：两届新生，从报到到融入。
-
-<p align="center"><img src="assets/div7.svg" width="100%" alt=""/></p>
 
 ## 🧭 航线图 · 正在学
 
@@ -125,17 +98,9 @@
 
 ## 📮 灯塔 · 找到我
 
-<p align="center">
-  <a href="mailto:icyteacn@gmail.com"><img src="assets/badge-mail.svg" alt="mail"/></a>
-  <a href="https://github.com/IceofTea"><img src="assets/badge-github.svg" alt="github"/></a>
-</p>
-
-## 📟 终端一角
-
-<p align="center"><img src="assets/terminal.svg" alt="terminal"/></p>
+[![mail](https://img.shields.io/badge/mail-icyteacn%40gmail.com-00a8d8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1a2f)](mailto:icyteacn@gmail.com)
+[![github](https://img.shields.io/badge/github-IceofTea-64ffda?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a2f)](https://github.com/IceofTea)
 
 ---
 
-<p align="center">
-  <samp><small><i>* 把踩过的坑都泡开，后来的人就不再迷路。 *</i></small></samp>
-</p>
+*把踩过的坑都泡开，后来的人就不再迷路。*
