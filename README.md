@@ -6,9 +6,10 @@
 
 ## 📊 GitHub Stats
 
-![followers](https://img.shields.io/github/followers/IceofTea?style=for-the-badge&label=Followers&logo=github&logoColor=white&color=00d4ff&labelColor=0a1a2f)
-![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIceofTea&query=public_repos&label=Repos&style=for-the-badge&logo=github&logoColor=white&color=64ffda&labelColor=0a1a2f)
-![stars](https://img.shields.io/github/stars/IceofTea/QDU-Wiki?style=for-the-badge&label=Stars&logo=github&logoColor=white&color=64ffda&labelColor=0a1a2f) *QDU-Wiki*
+<div>
+  <img src="https://github-readme-stats-own-xi.vercel.app/api?username=IceofTea&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide=issues,prs&line_height=30" height="180" />
+  <img src="https://github-readme-stats-own-xi.vercel.app/api/top-langs/?username=IceofTea&theme=radical&hide_border=false&count_private=true&layout=compact&hide=XSLT&size_weight=0.5&count_weight=0.5" height="180" />
+</div>
 
 ## 💻 Tech Stack
 
