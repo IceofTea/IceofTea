@@ -7,8 +7,8 @@
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=IceofTea&theme=radical&hide_border=false&include_all_commits=true&count_private=false&hide=issues,prs&line_height=30" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceofTea&theme=radical&hide_border=false&layout=compact" height="180" />
+  <img src="https://github-readme-stats-own-xi.vercel.app/api?username=IceofTea&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide=issues,prs&line_height=30&v=2" height="180" />
+  <img src="https://github-readme-stats-own-xi.vercel.app/api/top-langs/?username=IceofTea&theme=radical&hide_border=false&layout=compact&v=2" height="180" />
 </div>
 
 ## 💻 Tech Stack
