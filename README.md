@@ -62,6 +62,17 @@
 - 🧊 **社区驱动**：从贴吧走出来的内容，再喂回给 Wiki，形成正循环。
 - 🤖 **Agent 协作**：设计了「提示词工程」维护流程，让 AI 也能帮忙改词条。
 
+## 🏆 重要仓库 · QDU-Nav（2026.08）
+
+把青大的官网入口、真实课表、食堂、空教室等 15+ 校园服务捏进一个手机页面的**校园导航站**：
+Vue 3 + Vite 构建，Python 爬虫定时抓取教务处公开数据（近 7 学期约 5 万条真实排课），GitHub Actions 每 6 小时自动刷新快照，托管在 GitHub Pages。
+
+[![repo](https://img.shields.io/badge/repo-QDU--Nav-64ffda?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a2f)](https://github.com/IceofTea/QDU-Nav)
+[![site](https://img.shields.io/badge/site-QDU--Nav%20Pages-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a2f)](https://iceoftea.github.io/QDU-Nav/)
+
+- 🕷️ **自建数据链路**：Python 爬虫 + Node 网关双实现，快照质量门禁兜底，不依赖任何第三方 API。
+- 🧩 **模板化工程**：改配置 → 换数据 → 增应用，三步移植成其他学校的学习导航站。
+
 ## 🎓 隐藏仓库 · 校园论坛 + RAG 问答机器人
 
 独立从底层搭建的校园论坛网站（Spring Boot + Vue3），核心亮点是自研的 **RAG 智能问答机器人**：
